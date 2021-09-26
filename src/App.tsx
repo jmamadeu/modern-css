@@ -1,7 +1,9 @@
+import './styles/_layout.scss'
+
 function App() {
   return (
-    <div>
-      <h1>Modern CSS</h1>
+    <div className="container">
+      <h1>Modern CSS with sass</h1>
     </div>
   );
 }
